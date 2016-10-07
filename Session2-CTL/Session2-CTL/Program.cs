@@ -1,6 +1,6 @@
 ﻿using System;
 
-class MyLittleProject
+class MyHelloWorld
 {
     static void Main() //My Entry to the program
     {
