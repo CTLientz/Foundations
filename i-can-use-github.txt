@@ -1,0 +1,13 @@
+Create a new file 
+
+Create a File
+Create a text file named: i-can-use-github.txt with some text in it and save it to your foundations folder.
+At the command prompt type: gitex 
+Click on the Commit button. You should see at least one file.
+Click on your new file and then click the stage button.
+Enter some comments for the commit message
+Click Commit
+At the command prompt type: git push 
+Then enter your github creds.
+Now your changes are pushed up to the server.
+Go to github.com and see if your repository has a new file in it.
